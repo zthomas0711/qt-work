@@ -1,3 +1,6 @@
+*NOTE* project pushed to github by redavis22  on behalf of program developer Zach Thomas
+
+
 qt-work
 =======
 For coding demo:
