@@ -1,0 +1,22 @@
+#ifndef DIALOG_H
+#define DIALOG_H
+
+#include ""
+
+namespace Ui {
+    class mydialog;
+}
+ 
+class mydialogtest : public QDialog
+{
+    Q_OBJECT
+ 
+public:
+    explicit dialogtest(QWidget *parent = 0);
+    ~dialogtest();
+ 
+private:
+    Ui::dialogtest *ui;
+};
+ 
+#endif // DIALOG_H

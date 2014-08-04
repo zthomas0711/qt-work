@@ -1,0 +1,16 @@
+INPUT(
+./debug/main.o
+./debug/mainwindow.o
+./debug/modifyentry.o
+./debug/newentry.o
+./debug/database.o
+./debug/engineer.o
+./debug/invalidid.o
+./debug/notfound.o
+./debug/moc_mainwindow.o
+./debug/moc_modifyentry.o
+./debug/moc_newentry.o
+./debug/moc_database.o
+./debug/moc_invalidid.o
+./debug/moc_notfound.o
+);

@@ -1,0 +1,16 @@
+INPUT(
+./release/main.o
+./release/mainwindow.o
+./release/modifyentry.o
+./release/newentry.o
+./release/database.o
+./release/engineer.o
+./release/invalidid.o
+./release/notfound.o
+./release/moc_mainwindow.o
+./release/moc_modifyentry.o
+./release/moc_newentry.o
+./release/moc_database.o
+./release/moc_invalidid.o
+./release/moc_notfound.o
+);
